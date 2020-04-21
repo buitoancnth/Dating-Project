@@ -1,0 +1,13 @@
+{
+    "port": 5000,
+    "secret": "super-secret-key-dating-api",
+    "saltRounds": 10,
+    "graphql": {
+      "endpoint": "/",
+      "ide": true,
+      "pretty": true
+    },
+    "upload": {
+      "endpoint": "/upload"
+    }
+  }
